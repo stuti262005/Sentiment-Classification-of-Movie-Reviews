@@ -1,0 +1,6 @@
+venv/
+aclImdb/
+__pycache__/
+*.pyc
+*.keras
+*.pkl
